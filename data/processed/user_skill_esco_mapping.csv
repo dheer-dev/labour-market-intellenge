@@ -1,0 +1,6 @@
+user_id,user_skill,esco_skill_uri,esco_skill_label,esco_skill_type,esco_reuse_level,mapping_basis
+user_001,Python,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),knowledge,sector-specific,manual_semantic_mapping_from_ESCo_vocabulary
+user_001,SQL,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,knowledge,sector-specific,manual_semantic_mapping_from_ESCo_vocabulary
+user_001,Excel,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,skill/competence,cross-sector,manual_semantic_mapping_from_ESCo_vocabulary
+user_001,Communication,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,communication,knowledge,cross-sector,manual_semantic_mapping_from_ESCo_vocabulary
+user_001,Data Analysis,http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f,perform data analysis,skill/competence,cross-sector,manual_semantic_mapping_from_ESCo_vocabulary

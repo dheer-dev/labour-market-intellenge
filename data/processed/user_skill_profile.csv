@@ -1,0 +1,6 @@
+user_id,user_skill,skill_source
+user_001,Python,user_input
+user_001,SQL,user_input
+user_001,Excel,user_input
+user_001,Communication,user_input
+user_001,Data Analysis,user_input
