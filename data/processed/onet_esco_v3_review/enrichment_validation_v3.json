@@ -1,0 +1,12 @@
+{
+  "onet_skills": 35,
+  "candidate_rows": 350,
+  "esco_descriptions_present": 350,
+  "candidate_rows_with_official_onet_definitions": 350,
+  "onet_definition_file_found": true,
+  "occupation_rows_preserved": 175,
+  "auto_approvals": 0,
+  "original_crosswalk_modified": false,
+  "baseline_gap_catalogue_modified": false,
+  "official_onet_definitions_source": "data/raw/content_model_reference.csv"
+}

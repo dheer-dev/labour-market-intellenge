@@ -1,0 +1,13 @@
+model,metric,mean,std
+Majority-class baseline,accuracy,0.7462363455808483,0.002859165946178472
+Majority-class baseline,precision,0.0,0.0
+Majority-class baseline,recall,0.0,0.0
+Majority-class baseline,f1,0.0,0.0
+Majority-class baseline,roc_auc,0.5,0.0
+Majority-class baseline,pr_auc,0.25376365441915183,0.0028591659461784354
+TF-IDF + Logistic Regression,accuracy,0.7631813197690944,0.009199516721465236
+TF-IDF + Logistic Regression,precision,0.656390168970814,0.09288568461523422
+TF-IDF + Logistic Regression,recall,0.14070478283916246,0.034780093456664454
+TF-IDF + Logistic Regression,f1,0.2305605705699097,0.050020142202551604
+TF-IDF + Logistic Regression,roc_auc,0.6981671681910313,0.0325078165991246
+TF-IDF + Logistic Regression,pr_auc,0.48321909738044166,0.04221254656993123

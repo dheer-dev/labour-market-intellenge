@@ -1,2 +1,44 @@
 data/processed/esco_occupation_skill_dataset.csv
 data/processed/job_posting_skill_mapping.csv
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local backups
+*.bak
+app.py.review3-backup
+app.py.before_ml_page_fix
+app_before_shap_v8.py
+app_before_shap_v9.py
+
+# Temporary files
+*.tmp
+*.log
+
+# Large generated datasets (preserved locally)
+data/processed/job_posting_skill_mapping.csv
+data/processed/esco_occupation_skill_dataset.csv

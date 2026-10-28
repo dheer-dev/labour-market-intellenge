@@ -1,0 +1,3 @@
+split,row_count,occupation_count,observed_count,non_observed_count
+train,2197,1204,577,1620
+test,499,301,97,402

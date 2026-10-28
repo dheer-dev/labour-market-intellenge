@@ -1,4 +1,6 @@
+
 import pandas as pd
+import joblib
 
 from pathlib import Path
 
@@ -30,6 +32,7 @@ PROCESSED_DIR = BASE_DIR / "data" / "processed"
 
 INPUT_FILE = PROCESSED_DIR / "model_dataset.csv"
 RESULTS_FILE = PROCESSED_DIR / "model_results.csv"
+MODEL_FILE = PROCESSED_DIR / "market_observation_model.joblib"
 
 
 # --------------------------------------------------
@@ -87,6 +90,25 @@ def main():
 
     print("Dataset shape:", df.shape)
 
+    required_columns = [
+        "occupation_label",
+        "skill_label",
+        "skill_type",
+        "relation_type",
+        "market_observed",
+    ]
+
+    missing_columns = [
+        column
+        for column in required_columns
+        if column not in df.columns
+    ]
+
+    if missing_columns:
+        raise ValueError(
+            f"Missing required columns: {missing_columns}"
+        )
+
     # --------------------------------------------------
     # 2. Construct text representation
     # --------------------------------------------------
@@ -136,8 +158,11 @@ def main():
 
     baseline_predictions = [majority_class] * len(y_test)
 
-    # Probability assigned to positive class
-    baseline_probability = [0.0] * len(y_test)
+    # Majority baseline assigns zero probability to the
+    # positive class when the majority class is 0.
+    baseline_probability = [
+        1.0 if majority_class == 1 else 0.0
+    ] * len(y_test)
 
     baseline_results = evaluate_model(
         "Majority Class Baseline",
@@ -172,6 +197,14 @@ def main():
     )
 
     model.fit(X_train, y_train)
+
+    # Save the fitted pipeline, including its fitted
+    # TF-IDF vocabulary and Logistic Regression model.
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    joblib.dump(model, MODEL_FILE)
+
+    print()
+    print("Trained model saved:", MODEL_FILE)
 
     predictions = model.predict(X_test)
 
@@ -226,16 +259,19 @@ def main():
     cm = confusion_matrix(
         y_test,
         predictions,
+        labels=[0, 1],
     )
 
     print(cm)
 
     print()
     print("Classification report:")
+
     print(
         classification_report(
             y_test,
             predictions,
+            labels=[0, 1],
             target_names=[
                 "Not observed",
                 "Market observed",
@@ -245,7 +281,7 @@ def main():
     )
 
     # --------------------------------------------------
-    # 8. Save results
+    # 8. Save evaluation results
     # --------------------------------------------------
 
     results.to_csv(
@@ -257,7 +293,8 @@ def main():
     print("MODEL RESULTS SAVED")
     print("=" * 70)
 
-    print("Output:", RESULTS_FILE)
+    print("Results:", RESULTS_FILE)
+    print("Model:", MODEL_FILE)
 
 
 if __name__ == "__main__":

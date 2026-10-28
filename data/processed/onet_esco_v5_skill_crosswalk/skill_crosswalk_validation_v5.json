@@ -1,0 +1,12 @@
+{
+  "reviewed_concepts": 35,
+  "human_approved_concepts": 8,
+  "pending_concepts": 0,
+  "reviewed_nonapproved_concepts": 27,
+  "occupation_rows_input": 175,
+  "occupation_rows_output": 175,
+  "rows_with_approved_esco_skill": 40,
+  "unique_occupations": 5,
+  "baseline_modified": false,
+  "note": "Approval is a human decision, not semantic or AI inference. Unapproved concepts remain explicitly unmapped."
+}

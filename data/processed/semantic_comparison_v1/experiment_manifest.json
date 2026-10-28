@@ -1,0 +1,12 @@
+{
+  "dataset": "data/processed/model_dataset_occupation_aware.csv",
+  "rows": 2656,
+  "occupations": 190,
+  "positive": 674,
+  "folds": 5,
+  "semantic_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_normalized": true,
+  "threshold": 0.5,
+  "comparison": "Same stratified occupation-grouped outer folds; fixed hyperparameters; preprocessing TF-IDF fit inside training folds; embedding model frozen.",
+  "caveat": "This is 5-fold grouped CV, not nested hyperparameter-tuned CV. Do not directly equate scores with prior nested-CV metrics."
+}

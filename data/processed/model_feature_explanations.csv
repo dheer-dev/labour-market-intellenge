@@ -1,0 +1,61 @@
+feature,coefficient,absolute_coefficient,direction,associated_class,rank_within_direction,interpretation,target_definition
+lawyer,2.9370860832311765,2.9370860832311765,Positive,1,1,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+data,2.7740896478175787,2.7740896478175787,Positive,1,2,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+environmental,2.5582023845164468,2.5582023845164468,Positive,1,3,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+civil,2.4736087924473606,2.4736087924473606,Positive,1,4,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+management,2.212674670724674,2.212674670724674,Positive,1,5,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+cloud,2.0561559459918426,2.0561559459918426,Positive,1,6,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+manager,1.9054193804765212,1.9054193804765212,Positive,1,7,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+engineer,1.8741334213320449,1.8741334213320449,Positive,1,8,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+analyst,1.8640527848253123,1.8640527848253123,Positive,1,9,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+legal,1.8490586854658273,1.8490586854658273,Positive,1,10,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+procurement,1.7319118832231066,1.7319118832231066,Positive,1,11,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+officer,1.7217332016849074,1.7217332016849074,Positive,1,12,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+civil engineer,1.6977234928846572,1.6977234928846572,Positive,1,13,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+project,1.6690332952619011,1.6690332952619011,Positive,1,14,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+management knowledge,1.639640074466229,1.639640074466229,Positive,1,15,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+ict,1.6122066131211568,1.6122066131211568,Positive,1,16,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+programme,1.494465604758036,1.494465604758036,Positive,1,17,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+urban,1.4686639340072392,1.4686639340072392,Positive,1,18,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+office,1.3839229990996216,1.3839229990996216,Positive,1,19,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+database administrator,1.35749624344377,1.35749624344377,Positive,1,20,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+business analyst,1.3282752098874295,1.3282752098874295,Positive,1,21,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+software developer,1.2818112691056645,1.2818112691056645,Positive,1,22,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+civil engineering,1.2319215581893759,1.2319215581893759,Positive,1,23,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+database,1.195330829896013,1.195330829896013,Positive,1,24,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+architect,1.1920328277848362,1.1920328277848362,Positive,1,25,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+project manager,1.1463917204715612,1.1463917204715612,Positive,1,26,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+land,1.1451091711102224,1.1451091711102224,Positive,1,27,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+microbiologist,1.143676742009961,1.143676742009961,Positive,1,28,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+data analyst,1.1288865589480714,1.1288865589480714,Positive,1,29,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+software,1.1215080980848529,1.1215080980848529,Positive,1,30,Pushes prediction towards market observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+operator,-1.8316378120710455,1.8316378120710455,Negative,0,1,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+competence optional,-1.4730031541006594,1.4730031541006594,Negative,0,2,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+optional,-1.3090999822737819,1.3090999822737819,Negative,0,3,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+in,-1.1911354610941958,1.1911354610941958,Negative,0,4,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+technician,-1.1352836679818772,1.1352836679818772,Negative,0,5,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+competence,-1.1091223454857748,1.1091223454857748,Negative,0,6,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+skill,-1.1091223454857748,1.1091223454857748,Negative,0,7,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+skill competence,-1.1091223454857748,1.1091223454857748,Negative,0,8,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+for,-1.0866917308404558,1.0866917308404558,Negative,0,9,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+teacher,-0.9835678587597063,0.9835678587597063,Negative,0,10,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+production,-0.9652280791734605,0.9652280791734605,Negative,0,11,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+lecturer,-0.9602995684035159,0.9602995684035159,Negative,0,12,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+of,-0.9308752699329967,0.9308752699329967,Negative,0,13,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+equipment,-0.8667307538730271,0.8667307538730271,Negative,0,14,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+products,-0.8273525972045748,0.8273525972045748,Negative,0,15,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+test,-0.8131071150562428,0.8131071150562428,Negative,0,16,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+machine,-0.7905653851894018,0.7905653851894018,Negative,0,17,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+footwear,-0.7713074123697854,0.7713074123697854,Negative,0,18,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+distribution,-0.7684985201325996,0.7684985201325996,Negative,0,19,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+manufacturing,-0.7494450369302905,0.7494450369302905,Negative,0,20,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+product,-0.7411563852318666,0.7411563852318666,Negative,0,21,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+monitor,-0.7345899109792178,0.7345899109792178,Negative,0,22,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+sales,-0.7323503725752158,0.7323503725752158,Negative,0,23,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+consultant,-0.7264987439592748,0.7264987439592748,Negative,0,24,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+animal,-0.7018758213473496,0.7018758213473496,Negative,0,25,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+textile,-0.701867053767571,0.701867053767571,Negative,0,26,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+metal,-0.6994241273318388,0.6994241273318388,Negative,0,27,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+food,-0.6977681004455192,0.6977681004455192,Negative,0,28,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+engine,-0.6768887653253605,0.6768887653253605,Negative,0,29,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset
+to,-0.6744694849085987,0.6744694849085987,Negative,0,30,Pushes prediction towards not observed,Whether an ESCO occupation-skill relationship is observed in the available NYC job-posting dataset

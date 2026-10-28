@@ -1,0 +1,141 @@
+target_occupation,onet_soc_code,onet_occupation_title,title,element_id,element_name,onet_skill_category,onet_importance,onet_level,source_dataset
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.b,Active Listening,Essential Skills,4.0,4.0,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.a,Reading Comprehension,Essential Skills,3.88,5.0,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.d,Speaking,Essential Skills,3.88,3.88,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.e,Mathematics,Essential Skills,3.88,4.75,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.2.a,Critical Thinking,Essential Skills,3.88,4.62,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.f,Science,Essential Skills,3.75,4.0,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.1.c,Writing,Essential Skills,3.25,3.88,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.2.b,Active Learning,Essential Skills,3.25,4.62,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.2.d,Monitoring,Essential Skills,3.25,3.88,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.A.2.c,Learning Strategies,Essential Skills,2.88,3.62,onet_essential_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.2.i,Complex Problem Solving,Transferable Skills,3.88,4.12,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.4.g,Systems Analysis,Transferable Skills,3.75,4.12,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.5.a,Time Management,Transferable Skills,3.75,4.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.a,Operations Analysis,Transferable Skills,3.62,4.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.4.e,Judgment and Decision Making,Transferable Skills,3.38,4.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.b,Coordination,Transferable Skills,3.12,3.75,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.4.h,Systems Evaluation,Transferable Skills,3.12,4.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.a,Social Perceptiveness,Transferable Skills,3.0,3.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.c,Persuasion,Transferable Skills,3.0,3.25,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.d,Negotiation,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.e,Instructing,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.1.f,Service Orientation,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.5.d,Management of Personnel Resources,Transferable Skills,3.0,3.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.5.b,Management of Financial Resources,Transferable Skills,2.88,3.38,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.5.c,Management of Material Resources,Transferable Skills,2.88,3.0,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.b,Technology Design,Transferable Skills,2.25,2.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.m,Quality Control Analysis,Transferable Skills,2.25,2.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.g,Operations Monitoring,Transferable Skills,2.12,2.12,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.e,Programming,Transferable Skills,1.88,1.88,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.l,Repairing,Transferable Skills,1.62,1.62,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.j,Equipment Maintenance,Transferable Skills,1.5,0.88,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.k,Troubleshooting,Transferable Skills,1.5,0.62,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.h,Operation and Control,Transferable Skills,1.38,0.5,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.c,Equipment Selection,Transferable Skills,1.25,0.25,onet_transferable_skills_clean.csv
+civil engineer,17-2051.00,Civil Engineers,Civil Engineers,2.B.3.d,Installation,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.b,Active Listening,Essential Skills,4.0,4.12,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.2.a,Critical Thinking,Essential Skills,4.0,4.38,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.a,Reading Comprehension,Essential Skills,3.88,4.25,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.d,Speaking,Essential Skills,3.88,4.12,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.2.b,Active Learning,Essential Skills,3.88,4.0,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.2.d,Monitoring,Essential Skills,3.88,4.5,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.c,Writing,Essential Skills,3.75,3.88,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.e,Mathematics,Essential Skills,3.5,3.88,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.2.c,Learning Strategies,Essential Skills,3.12,3.25,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.A.1.f,Science,Essential Skills,2.12,2.0,onet_essential_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.4.e,Judgment and Decision Making,Transferable Skills,4.12,4.38,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.5.d,Management of Personnel Resources,Transferable Skills,4.12,4.12,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.b,Coordination,Transferable Skills,4.0,4.5,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.2.i,Complex Problem Solving,Transferable Skills,4.0,4.12,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.5.a,Time Management,Transferable Skills,4.0,4.12,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.d,Negotiation,Transferable Skills,3.88,3.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.4.g,Systems Analysis,Transferable Skills,3.62,3.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.5.b,Management of Financial Resources,Transferable Skills,3.62,4.12,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.a,Social Perceptiveness,Transferable Skills,3.5,3.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.4.h,Systems Evaluation,Transferable Skills,3.5,3.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.5.c,Management of Material Resources,Transferable Skills,3.38,3.75,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.m,Quality Control Analysis,Transferable Skills,3.25,3.12,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.c,Persuasion,Transferable Skills,3.12,3.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.e,Instructing,Transferable Skills,3.12,3.25,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.1.f,Service Orientation,Transferable Skills,3.12,2.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.a,Operations Analysis,Transferable Skills,3.0,3.38,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.g,Operations Monitoring,Transferable Skills,2.75,2.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.k,Troubleshooting,Transferable Skills,2.25,2.38,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.h,Operation and Control,Transferable Skills,2.0,1.62,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.b,Technology Design,Transferable Skills,1.75,1.0,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.c,Equipment Selection,Transferable Skills,1.62,0.88,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.j,Equipment Maintenance,Transferable Skills,1.62,1.0,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.l,Repairing,Transferable Skills,1.62,1.38,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.e,Programming,Transferable Skills,1.5,0.62,onet_transferable_skills_clean.csv
+construction manager,11-9021.00,Construction Managers,Construction Managers,2.B.3.d,Installation,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.a,Reading Comprehension,Essential Skills,4.0,4.75,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.b,Active Listening,Essential Skills,4.0,3.88,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.c,Writing,Essential Skills,4.0,4.25,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.d,Speaking,Essential Skills,4.0,4.25,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.2.a,Critical Thinking,Essential Skills,4.0,4.0,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.2.d,Monitoring,Essential Skills,4.0,4.25,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.2.b,Active Learning,Essential Skills,3.75,4.12,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.e,Mathematics,Essential Skills,3.38,4.0,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.1.f,Science,Essential Skills,3.38,4.0,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.A.2.c,Learning Strategies,Essential Skills,3.0,3.0,onet_essential_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.2.i,Complex Problem Solving,Transferable Skills,3.88,4.12,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.4.e,Judgment and Decision Making,Transferable Skills,3.88,4.12,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.b,Coordination,Transferable Skills,3.75,3.88,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.4.g,Systems Analysis,Transferable Skills,3.25,3.88,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.4.h,Systems Evaluation,Transferable Skills,3.25,4.12,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.5.a,Time Management,Transferable Skills,3.25,3.75,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.a,Social Perceptiveness,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.c,Persuasion,Transferable Skills,3.0,3.25,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.d,Negotiation,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.e,Instructing,Transferable Skills,3.0,3.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.1.f,Service Orientation,Transferable Skills,2.88,2.88,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.5.d,Management of Personnel Resources,Transferable Skills,2.75,3.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.g,Operations Monitoring,Transferable Skills,2.62,2.88,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.m,Quality Control Analysis,Transferable Skills,2.62,2.62,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.a,Operations Analysis,Transferable Skills,2.5,2.5,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.5.b,Management of Financial Resources,Transferable Skills,2.25,2.38,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.5.c,Management of Material Resources,Transferable Skills,2.25,2.12,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.h,Operation and Control,Transferable Skills,2.0,1.75,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.b,Technology Design,Transferable Skills,1.62,0.75,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.e,Programming,Transferable Skills,1.62,0.88,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.k,Troubleshooting,Transferable Skills,1.62,1.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.c,Equipment Selection,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.d,Installation,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.j,Equipment Maintenance,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+environmental engineer,17-2081.00,Environmental Engineers,Environmental Engineers,2.B.3.l,Repairing,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.d,Speaking,Essential Skills,4.62,4.88,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.a,Reading Comprehension,Essential Skills,4.5,4.88,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.b,Active Listening,Essential Skills,4.5,5.0,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.2.a,Critical Thinking,Essential Skills,4.5,5.0,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.c,Writing,Essential Skills,4.25,4.88,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.2.b,Active Learning,Essential Skills,3.75,4.12,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.2.d,Monitoring,Essential Skills,3.38,3.75,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.2.c,Learning Strategies,Essential Skills,3.12,3.12,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.e,Mathematics,Essential Skills,2.0,2.12,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.A.1.f,Science,Essential Skills,1.5,0.5,onet_essential_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.2.i,Complex Problem Solving,Transferable Skills,4.12,4.25,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.4.e,Judgment and Decision Making,Transferable Skills,4.12,4.38,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.c,Persuasion,Transferable Skills,4.0,5.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.d,Negotiation,Transferable Skills,4.0,4.38,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.a,Social Perceptiveness,Transferable Skills,3.75,4.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.5.a,Time Management,Transferable Skills,3.62,4.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.b,Coordination,Transferable Skills,3.5,3.38,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.4.g,Systems Analysis,Transferable Skills,3.38,3.5,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.e,Instructing,Transferable Skills,3.12,3.12,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.1.f,Service Orientation,Transferable Skills,3.12,3.5,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.4.h,Systems Evaluation,Transferable Skills,3.0,3.25,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.5.d,Management of Personnel Resources,Transferable Skills,2.88,3.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.a,Operations Analysis,Transferable Skills,2.38,2.25,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.5.b,Management of Financial Resources,Transferable Skills,2.0,2.12,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.5.c,Management of Material Resources,Transferable Skills,2.0,2.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.b,Technology Design,Transferable Skills,1.5,0.5,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.e,Programming,Transferable Skills,1.5,0.5,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.g,Operations Monitoring,Transferable Skills,1.38,0.38,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.c,Equipment Selection,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.d,Installation,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.h,Operation and Control,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.j,Equipment Maintenance,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.k,Troubleshooting,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.l,Repairing,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv
+lawyer,23-1011.00,Lawyers,Lawyers,2.B.3.m,Quality Control Analysis,Transferable Skills,1.0,0.0,onet_transferable_skills_clean.csv

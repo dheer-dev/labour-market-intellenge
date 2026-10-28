@@ -1,0 +1,9 @@
+scenario,high_threshold,moderate_threshold,is_baseline,candidate_count,high_count,moderate_count,emerging_count,high_percent,moderate_percent,emerging_percent,changed_gap_count,unchanged_gap_count,changed_percent
+High_35_Moderate_25,35,25,False,35,8,13,14,22.86,37.14,40.0,11,24,31.43
+High_35_Moderate_30,35,30,False,35,8,6,21,22.86,17.14,60.0,4,31,11.43
+High_40_Moderate_25,40,25,False,35,4,17,14,11.43,48.57,40.0,7,28,20.0
+High_40_Moderate_30,40,30,True,35,4,10,21,11.43,28.57,60.0,0,35,0.0
+High_40_Moderate_35,40,35,False,35,4,4,27,11.43,11.43,77.14,6,29,17.14
+High_45_Moderate_25,45,25,False,35,3,18,14,8.57,51.43,40.0,8,27,22.86
+High_45_Moderate_30,45,30,False,35,3,11,21,8.57,31.43,60.0,1,34,2.86
+High_45_Moderate_35,45,35,False,35,3,5,27,8.57,14.29,77.14,7,28,20.0

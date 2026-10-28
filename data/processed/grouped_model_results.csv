@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,roc_auc,pr_auc
+Majority Class Baseline (Grouped Split),0.8056112224448898,0.0,0.0,0.0,0.5,0.19438877755511022
+TF-IDF + Logistic Regression (Grouped Split),0.8416833667334669,0.68,0.35051546391752575,0.46258503401360546,0.8879058316664102,0.6145193768524062

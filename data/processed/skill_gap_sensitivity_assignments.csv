@@ -1,0 +1,281 @@
+gap_id,occupation_label,skill_label,market_skill_prevalence_percent,scenario,high_threshold,moderate_threshold,is_baseline,priority,baseline_priority,priority_changed
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_35_Moderate_25,35,25,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_35_Moderate_25,35,25,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_35_Moderate_25,35,25,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_35_Moderate_25,35,25,False,High,High,False
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_35_Moderate_25,35,25,False,High,Moderate,True
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_35_Moderate_25,35,25,False,High,Moderate,True
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_35_Moderate_25,35,25,False,High,Moderate,True
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_35_Moderate_25,35,25,False,High,Moderate,True
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_35_Moderate_25,35,25,False,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_35_Moderate_25,35,25,False,Moderate,Emerging,True
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_35_Moderate_25,35,25,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_35_Moderate_30,35,30,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_35_Moderate_30,35,30,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_35_Moderate_30,35,30,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_35_Moderate_30,35,30,False,High,High,False
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_35_Moderate_30,35,30,False,High,Moderate,True
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_35_Moderate_30,35,30,False,High,Moderate,True
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_35_Moderate_30,35,30,False,High,Moderate,True
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_35_Moderate_30,35,30,False,High,Moderate,True
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_35_Moderate_30,35,30,False,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_35_Moderate_30,35,30,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_40_Moderate_25,40,25,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_40_Moderate_25,40,25,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_40_Moderate_25,40,25,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_40_Moderate_25,40,25,False,High,High,False
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_40_Moderate_25,40,25,False,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_40_Moderate_25,40,25,False,Moderate,Emerging,True
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_40_Moderate_25,40,25,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_40_Moderate_30,40,30,True,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_40_Moderate_30,40,30,True,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_40_Moderate_30,40,30,True,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_40_Moderate_30,40,30,True,High,High,False
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_40_Moderate_30,40,30,True,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_40_Moderate_30,40,30,True,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_40_Moderate_35,40,35,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_40_Moderate_35,40,35,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_40_Moderate_35,40,35,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_40_Moderate_35,40,35,False,High,High,False
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_40_Moderate_35,40,35,False,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_40_Moderate_35,40,35,False,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_40_Moderate_35,40,35,False,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_40_Moderate_35,40,35,False,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_40_Moderate_35,40,35,False,Emerging,Moderate,True
+project manager || office software,project manager,office software,27.3972602739726,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_40_Moderate_35,40,35,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_45_Moderate_25,45,25,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_45_Moderate_25,45,25,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_45_Moderate_25,45,25,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_45_Moderate_25,45,25,False,Moderate,High,True
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_45_Moderate_25,45,25,False,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_45_Moderate_25,45,25,False,Moderate,Emerging,True
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_45_Moderate_25,45,25,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_45_Moderate_30,45,30,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_45_Moderate_30,45,30,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_45_Moderate_30,45,30,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_45_Moderate_30,45,30,False,Moderate,High,True
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_45_Moderate_30,45,30,False,Moderate,Moderate,False
+project manager || office software,project manager,office software,27.3972602739726,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_45_Moderate_30,45,30,False,Emerging,Emerging,False
+civil engineer || office software,civil engineer,office software,47.45762711864407,High_45_Moderate_35,45,35,False,High,High,False
+civil engineer || communication,civil engineer,communication,28.8135593220339,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+civil engineer || CAD software,civil engineer,CAD software,27.11864406779661,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+civil engineer || plan schedule,civil engineer,plan schedule,20.33898305084746,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || interact verbally in English,construction manager,interact verbally in English,63.63636363636363,High_45_Moderate_35,45,35,False,High,High,False
+construction manager || discern written communication,construction manager,discern written communication,59.09090909090909,High_45_Moderate_35,45,35,False,High,High,False
+construction manager || communicating,construction manager,communicating,27.27272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,27.27272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || attend to detail,construction manager,attend to detail,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || communication,construction manager,communication,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || computer use,construction manager,computer use,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || meet deadlines,construction manager,meet deadlines,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+construction manager || supervision of persons,construction manager,supervision of persons,22.727272727272727,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+environmental engineer || office software,environmental engineer,office software,42.857142857142854,High_45_Moderate_35,45,35,False,Moderate,High,True
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,39.285714285714285,High_45_Moderate_35,45,35,False,Moderate,Moderate,False
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,32.142857142857146,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,32.142857142857146,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+environmental engineer || CAD software,environmental engineer,CAD software,21.428571428571427,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,21.428571428571427,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",37.142857142857146,High_45_Moderate_35,45,35,False,Moderate,Moderate,False
+lawyer || think analytically,lawyer,think analytically,37.142857142857146,High_45_Moderate_35,45,35,False,Moderate,Moderate,False
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,34.285714285714285,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,31.428571428571427,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+lawyer || writing and composing,lawyer,writing and composing,28.57142857142857,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+lawyer || interact verbally in English,lawyer,interact verbally in English,25.71428571428571,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+lawyer || solve problems,lawyer,solve problems,22.857142857142858,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+lawyer || communication,lawyer,communication,20.0,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+lawyer || work in an organised manner,lawyer,work in an organised manner,20.0,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+project manager || communication,project manager,communication,35.61643835616438,High_45_Moderate_35,45,35,False,Moderate,Moderate,False
+project manager || use spreadsheets software,project manager,use spreadsheets software,31.506849315068493,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+project manager || attend to detail,project manager,attend to detail,30.136986301369863,High_45_Moderate_35,45,35,False,Emerging,Moderate,True
+project manager || office software,project manager,office software,27.3972602739726,High_45_Moderate_35,45,35,False,Emerging,Emerging,False
+project manager || interact verbally in English,project manager,interact verbally in English,20.54794520547945,High_45_Moderate_35,45,35,False,Emerging,Emerging,False

@@ -1,0 +1,41 @@
+scenario,occupation_label,high_count,moderate_count,emerging_count
+High_35_Moderate_25,civil engineer,1,2,1
+High_35_Moderate_25,construction manager,2,2,7
+High_35_Moderate_25,environmental engineer,2,2,2
+High_35_Moderate_25,lawyer,2,4,3
+High_35_Moderate_25,project manager,1,3,1
+High_35_Moderate_30,civil engineer,1,0,3
+High_35_Moderate_30,construction manager,2,0,9
+High_35_Moderate_30,environmental engineer,2,2,2
+High_35_Moderate_30,lawyer,2,2,5
+High_35_Moderate_30,project manager,1,2,2
+High_40_Moderate_25,civil engineer,1,2,1
+High_40_Moderate_25,construction manager,2,2,7
+High_40_Moderate_25,environmental engineer,1,3,2
+High_40_Moderate_25,lawyer,0,6,3
+High_40_Moderate_25,project manager,0,4,1
+High_40_Moderate_30,civil engineer,1,0,3
+High_40_Moderate_30,construction manager,2,0,9
+High_40_Moderate_30,environmental engineer,1,3,2
+High_40_Moderate_30,lawyer,0,4,5
+High_40_Moderate_30,project manager,0,3,2
+High_40_Moderate_35,civil engineer,1,0,3
+High_40_Moderate_35,construction manager,2,0,9
+High_40_Moderate_35,environmental engineer,1,1,4
+High_40_Moderate_35,lawyer,0,2,7
+High_40_Moderate_35,project manager,0,1,4
+High_45_Moderate_25,civil engineer,1,2,1
+High_45_Moderate_25,construction manager,2,2,7
+High_45_Moderate_25,environmental engineer,0,4,2
+High_45_Moderate_25,lawyer,0,6,3
+High_45_Moderate_25,project manager,0,4,1
+High_45_Moderate_30,civil engineer,1,0,3
+High_45_Moderate_30,construction manager,2,0,9
+High_45_Moderate_30,environmental engineer,0,4,2
+High_45_Moderate_30,lawyer,0,4,5
+High_45_Moderate_30,project manager,0,3,2
+High_45_Moderate_35,civil engineer,1,0,3
+High_45_Moderate_35,construction manager,2,0,9
+High_45_Moderate_35,environmental engineer,0,2,4
+High_45_Moderate_35,lawyer,0,2,7
+High_45_Moderate_35,project manager,0,1,4

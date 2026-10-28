@@ -1,0 +1,6 @@
+target_occupation,onet_skill_rows,approved_esco_links,nyc_observed_skill_links,approved_links_without_nyc_match,nyc_observation_rate_among_approved
+civil engineer,35,8,1,7,0.125
+construction manager,35,8,2,6,0.25
+environmental engineer,35,8,2,6,0.25
+lawyer,35,8,2,6,0.25
+project manager,35,8,3,5,0.375

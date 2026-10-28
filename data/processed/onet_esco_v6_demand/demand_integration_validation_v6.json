@@ -1,0 +1,15 @@
+{
+  "input_onet_occupation_skill_rows": 175,
+  "output_rows": 175,
+  "unique_target_occupations": 5,
+  "unique_onet_skills": 35,
+  "approved_occupation_skill_links": 40,
+  "approved_links_observed_in_nyc_matrix": 10,
+  "approved_links_with_no_nyc_record": 30,
+  "onet_rows_without_approved_equivalence": 135,
+  "nyc_demand_matrix_rows": 8734,
+  "matching_rule": "Exact ESCO occupation URI AND exact approved ESCO skill URI",
+  "interpretation": "Unmatched means not present in this processed NYC dataset, NOT a missing labour-market skill or worker skill gap.",
+  "outputs_written_only_to": "data/processed/onet_esco_v6_demand",
+  "baseline_modified": false
+}

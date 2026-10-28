@@ -1,0 +1,8 @@
+{
+  "approved_occupations": 5,
+  "integrated_rows": 175,
+  "unique_onet_concepts": 35,
+  "baseline_modified": false,
+  "skill_crosswalk_modified": false,
+  "output": "data/processed/onet_esco_v2_integration/onet_esco_occupation_skill_attributes_v2.csv"
+}

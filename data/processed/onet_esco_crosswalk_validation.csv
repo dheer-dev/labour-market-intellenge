@@ -1,0 +1,11 @@
+metric,value
+reviewed_skill_elements,35
+unique_reviewed_skill_elements,35
+occupation_skill_records,140
+occupations_in_onet_dataset,4
+approved_mappings,1
+approved_mappings_missing_uri,0
+approved_uris_present_in_esco_relations,1
+review_required,12
+no_direct_match,22
+rejected,0

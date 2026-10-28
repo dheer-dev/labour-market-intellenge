@@ -1,0 +1,36 @@
+gap_id,occupation_label,skill_label,distinct_priority_levels,scenarios_tested,baseline_priority,scenarios_changed
+civil engineer || CAD software,civil engineer,CAD software,2,8,Emerging,3
+civil engineer || communication,civil engineer,communication,2,8,Emerging,3
+civil engineer || office software,civil engineer,office software,1,8,High,0
+civil engineer || plan schedule,civil engineer,plan schedule,1,8,Emerging,0
+construction manager || analysing and evaluating information and data,construction manager,analysing and evaluating information and data,1,8,Emerging,0
+construction manager || attend to detail,construction manager,attend to detail,1,8,Emerging,0
+construction manager || communicating,construction manager,communicating,2,8,Emerging,3
+construction manager || communication,construction manager,communication,1,8,Emerging,0
+construction manager || computer use,construction manager,computer use,1,8,Emerging,0
+construction manager || coordinate operational activities,construction manager,coordinate operational activities,2,8,Emerging,3
+construction manager || discern written communication,construction manager,discern written communication,1,8,High,0
+construction manager || interact verbally in English,construction manager,interact verbally in English,1,8,High,0
+construction manager || manage schedule of tasks,construction manager,manage schedule of tasks,1,8,Emerging,0
+construction manager || meet deadlines,construction manager,meet deadlines,1,8,Emerging,0
+construction manager || supervision of persons,construction manager,supervision of persons,1,8,Emerging,0
+environmental engineer || CAD software,environmental engineer,CAD software,1,8,Emerging,0
+environmental engineer || geographic information systems,environmental engineer,geographic information systems,2,8,Moderate,2
+environmental engineer || interact verbally in English,environmental engineer,interact verbally in English,1,8,Emerging,0
+environmental engineer || office software,environmental engineer,office software,2,8,High,3
+environmental engineer || social and communication skills and competences,environmental engineer,social and communication skills and competences,2,8,Moderate,2
+environmental engineer || use spreadsheets software,environmental engineer,use spreadsheets software,2,8,Moderate,2
+lawyer || communication,lawyer,communication,1,8,Emerging,0
+lawyer || conduct research across disciplines,lawyer,conduct research across disciplines,2,8,Moderate,2
+lawyer || interact verbally in English,lawyer,interact verbally in English,2,8,Emerging,3
+"lawyer || organise information, objects and resources",lawyer,"organise information, objects and resources",2,8,Moderate,2
+lawyer || perform multiple tasks at the same time,lawyer,perform multiple tasks at the same time,2,8,Moderate,2
+lawyer || solve problems,lawyer,solve problems,1,8,Emerging,0
+lawyer || think analytically,lawyer,think analytically,2,8,Moderate,2
+lawyer || work in an organised manner,lawyer,work in an organised manner,1,8,Emerging,0
+lawyer || writing and composing,lawyer,writing and composing,2,8,Emerging,3
+project manager || attend to detail,project manager,attend to detail,2,8,Moderate,2
+project manager || communication,project manager,communication,2,8,Moderate,2
+project manager || interact verbally in English,project manager,interact verbally in English,1,8,Emerging,0
+project manager || office software,project manager,office software,2,8,Emerging,3
+project manager || use spreadsheets software,project manager,use spreadsheets software,2,8,Moderate,2

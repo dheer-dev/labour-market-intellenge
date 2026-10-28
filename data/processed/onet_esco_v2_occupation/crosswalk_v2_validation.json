@@ -1,0 +1,8 @@
+{
+  "approved_target_occupations": 5,
+  "existing_approved_occupations_preserved": 4,
+  "project_manager_onet_soc": "13-1082.00",
+  "skill_mappings_modified": 0,
+  "baseline_gap_catalogue_modified": false,
+  "output": "data/processed/onet_esco_v2_occupation/onet_esco_occupation_crosswalk_v2.csv"
+}

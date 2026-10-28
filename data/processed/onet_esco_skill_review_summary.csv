@@ -1,0 +1,36 @@
+onet_element_id,onet_skill_label,onet_skill_category,candidate_1_esco_label,candidate_1_string_similarity,candidate_1_token_overlap,candidate_1_exact_match,candidate_2_esco_label,candidate_2_string_similarity,candidate_2_token_overlap,candidate_3_esco_label,candidate_3_string_similarity,candidate_3_token_overlap,mapping_decision
+2.A.1.a,Reading Comprehension,Essential Skills,product comprehension,76.19,33.33,False,dredging consoles,63.16,0.0,scaffolding components,60.47,0.0,UNREVIEWED
+2.A.1.b,Active Listening,Essential Skills,impact investing,68.75,0.0,False,machine learning,68.75,0.0,palliative settings,62.86,0.0,UNREVIEWED
+2.A.1.c,Writing,Essential Skills,teach writing,70.0,50.0,False,crafting,66.67,0.0,crimping,66.67,0.0,UNREVIEWED
+2.A.1.d,Speaking,Essential Skills,lipspeaking,84.21,0.0,False,spelling,75.0,0.0,sing,66.67,0.0,UNREVIEWED
+2.A.1.e,Mathematics,Essential Skills,mathematics,100.0,100.0,True,teach mathematics,78.57,50.0,aesthetics,76.19,0.0,UNREVIEWED
+2.A.1.f,Science,Essential Skills,food science,73.68,50.0,False,data science,73.68,50.0,soil science,73.68,50.0,UNREVIEWED
+2.A.2.a,Critical Thinking,Essential Skills,carry out physical training,63.64,0.0,False,apply strategic thinking,63.41,25.0,political campaigning,63.16,0.0,UNREVIEWED
+2.A.2.b,Active Learning,Essential Skills,machine learning,83.87,33.33,False,e-learning,80.0,33.33,deep learning,71.43,33.33,UNREVIEWED
+2.A.2.c,Learning Strategies,Essential Skills,use learning strategies,90.48,66.67,False,pricing strategies,81.08,33.33,teach reading strategies,79.07,25.0,UNREVIEWED
+2.A.2.d,Monitoring,Essential Skills,monitor roasting,76.92,0.0,False,monitor bushings,76.92,0.0,monitor ticketing,74.07,0.0,UNREVIEWED
+2.B.1.a,Social Perceptiveness,Transferable Skills,social entreprise,68.42,33.33,False,social entrepreneurship,68.18,33.33,assertiveness,64.71,0.0,UNREVIEWED
+2.B.1.b,Coordination,Transferable Skills,coordinate drilling,70.97,0.0,False,coordinate catering,70.97,0.0,blood donation,69.23,0.0,UNREVIEWED
+2.B.1.c,Persuasion,Transferable Skills,periodisation,69.57,0.0,False,percolation,66.67,0.0,polymerisation,66.67,0.0,UNREVIEWED
+2.B.1.d,Negotiation,Transferable Skills,fertigation,72.73,0.0,False,oxidation,70.0,0.0,nutrition,70.0,0.0,UNREVIEWED
+2.B.1.e,Instructing,Transferable Skills,instruct in sport,71.43,0.0,False,instruct public,69.23,0.0,intubation,66.67,0.0,UNREVIEWED
+2.B.1.f,Service Orientation,Transferable Skills,ensure client orientation,72.73,25.0,False,food service operations,71.43,25.0,service-oriented modelling,71.11,25.0,UNREVIEWED
+2.B.2.i,Complex Problem Solving,Transferable Skills,computer programming,60.47,0.0,False,apply problem solving in social service,58.06,28.57,ML (computer programming),56.52,0.0,UNREVIEWED
+2.B.3.a,Operations Analysis,Transferable Skills,perform nutrition analysis,71.11,25.0,False,operations management,70.0,33.33,perform risk analysis,70.0,25.0,UNREVIEWED
+2.B.3.b,Technology Design,Transferable Skills,technology education,75.68,33.33,False,hatchery design,68.75,33.33,biotechnology,66.67,0.0,UNREVIEWED
+2.B.3.c,Equipment Selection,Transferable Skills,document museum collection,66.67,0.0,False,resolve equipment malfunctions,65.31,25.0,monitor equipment condition,65.22,25.0,UNREVIEWED
+2.B.3.d,Installation,Transferable Skills,install oven,75.0,0.0,False,lay pipe installation,72.73,33.33,intubation,72.73,0.0,UNREVIEWED
+2.B.3.e,Programming,Transferable Skills,web programming,84.62,50.0,False,computer programming,70.97,50.0,program management,68.97,0.0,UNREVIEWED
+2.B.3.g,Operations Monitoring,Transferable Skills,operation of lifting gears,68.09,0.0,False,operations management,66.67,33.33,operate rig motors,66.67,0.0,UNREVIEWED
+2.B.3.h,Operation and Control,Transferable Skills,operate tram controls,76.19,0.0,False,operate climate control,72.73,20.0,vegetation control,71.79,25.0,UNREVIEWED
+2.B.3.j,Equipment Maintenance,Transferable Skills,ensure equipment maintenance,85.71,66.67,False,advise on equipment maintenance,80.77,50.0,predictive maintenance,69.77,33.33,UNREVIEWED
+2.B.3.k,Troubleshooting,Transferable Skills,troubleshoot,88.89,0.0,False,troubleshoot website,74.29,0.0,perform ICT troubleshooting,71.43,33.33,UNREVIEWED
+2.B.3.l,Repairing,Transferable Skills,repair wiring,81.82,0.0,False,e-tailoring,70.0,0.0,repair engines,69.57,0.0,UNREVIEWED
+2.B.3.m,Quality Control Analysis,Transferable Skills,conduct quality control analysis,85.71,75.0,False,quality control systems,80.85,50.0,total quality control,66.67,50.0,UNREVIEWED
+2.B.4.e,Judgment and Decision Making,Transferable Skills,participatory decision-making,63.16,40.0,False,produce materials for decision making,61.54,28.57,tend anodising machine,60.0,0.0,UNREVIEWED
+2.B.4.g,Systems Analysis,Transferable Skills,perform system analysis,76.92,25.0,False,business analysis,72.73,33.33,use thermal analysis,72.22,25.0,UNREVIEWED
+2.B.4.h,Systems Evaluation,Transferable Skills,commission evaluation,66.67,33.33,False,plan evaluation,66.67,33.33,ICT system integration,65.0,0.0,UNREVIEWED
+2.B.5.a,Time Management,Transferable Skills,waste management,83.87,33.33,False,cost management,80.0,33.33,risk management,80.0,33.33,UNREVIEWED
+2.B.5.b,Management of Financial Resources,Transferable Skills,control financial resources,76.67,40.0,False,manage vehicle services' financial resources,73.68,28.57,manage physical resources,72.41,16.67,UNREVIEWED
+2.B.5.c,Management of Material Resources,Transferable Skills,check material resources,71.43,40.0,False,manage outdoor resources,71.43,16.67,manage aquatic resources,71.43,16.67,UNREVIEWED
+2.B.5.d,Management of Personnel Resources,Transferable Skills,manage physical resources,68.97,16.67,False,manage outdoor resources,66.67,16.67,manage engine-room resources,65.57,14.29,UNREVIEWED

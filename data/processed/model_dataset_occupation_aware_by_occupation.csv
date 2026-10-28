@@ -1,0 +1,191 @@
+occupation_uri,occupation_label,total_pairs,observed_pairs,non_observed_pairs,observed_percent
+http://data.europa.eu/esco/occupation/00634fc4-802a-461b-8af0-499273756f99,asphalt laboratory technician,4,1,3,25.0
+http://data.europa.eu/esco/occupation/01205776-db8d-4588-a6a6-56d0b9c660a9,housing policy officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/044d78cc-f62f-4532-83a5-8e04f2889652,administrative assistant,12,3,9,25.0
+http://data.europa.eu/esco/occupation/045f05f2-4ff8-46b2-9d08-e12a81657498,medical administrative assistant,4,1,3,25.0
+http://data.europa.eu/esco/occupation/04f39bfa-bc03-4480-98bc-b18ce4fe4b4b,accounting manager,28,7,21,25.0
+http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01,procurement category specialist,32,8,24,25.0
+http://data.europa.eu/esco/occupation/0752ed49-03e7-4d75-8314-a051b3771a1d,public administration manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/07dfff6d-a0d0-4202-a697-fe9176c15999,dependability engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424,digital forensics expert,8,2,6,25.0
+http://data.europa.eu/esco/occupation/0cca32c2-9308-4927-adb2-14771ab787f0,quantity surveyor,12,3,9,25.0
+http://data.europa.eu/esco/occupation/0d423a2e-6fb7-4704-8544-bd6c522b3c62,child care social worker,8,2,6,25.0
+http://data.europa.eu/esco/occupation/0d93706d-32fd-4de3-aa08-be1003e325da,chemist,8,2,6,25.0
+http://data.europa.eu/esco/occupation/0ededdc2-050a-4ec3-8e70-6295105fcd19,call centre agent,4,1,3,25.0
+http://data.europa.eu/esco/occupation/0f5cc4eb-925d-4b99-be6d-b0964a253a9a,civil engineering technician,36,9,27,25.0
+http://data.europa.eu/esco/occupation/11d72bd6-779a-4643-9962-313833740094,environmental scientist,20,5,15,25.0
+http://data.europa.eu/esco/occupation/11df8941-508c-4103-ad40-52cdf9430a59,sociologist,12,3,9,25.0
+http://data.europa.eu/esco/occupation/1242d99a-47f1-4a62-b884-33746db8a6ca,ICT help desk manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/18e14e61-495b-44cc-a7c6-df4c625934ba,specialist nurse,16,4,12,25.0
+http://data.europa.eu/esco/occupation/1ad59946-d13e-441e-9b36-56e1df055e21,financial auditor,16,4,12,25.0
+http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad,meteorologist,4,1,3,25.0
+http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0,data engineer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f,business intelligence manager,36,9,27,25.0
+http://data.europa.eu/esco/occupation/20b9f370-6b56-4679-8c06-c23b866a5bd0,labour relations officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/21cba86a-68c5-456c-aec2-cc04840b3c0e,pest management worker,4,1,3,25.0
+http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30,data scientist,32,8,24,25.0
+http://data.europa.eu/esco/occupation/276a4ff1-a67c-4677-9f20-dc85f1060e1b,middle office analyst,4,1,3,25.0
+http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28,chief ICT security officer,40,10,30,25.0
+http://data.europa.eu/esco/occupation/28742973-c452-4996-b070-440e437306dc,water quality analyst,8,2,6,25.0
+http://data.europa.eu/esco/occupation/2a04a1df-a3b9-403e-a245-e7f93fdddd44,executive assistant,12,3,9,25.0
+http://data.europa.eu/esco/occupation/2a914d26-42aa-46b5-acf3-097d51ba4617,construction engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/2ae76ccc-f02e-4eb6-b693-fff70ba8f409,child welfare worker,8,2,6,25.0
+http://data.europa.eu/esco/occupation/2bb8adee-2b84-4d7b-84f9-0620bc09ada8,instrumentation engineering technician,8,2,6,25.0
+http://data.europa.eu/esco/occupation/2c9939ef-ebab-4111-8f27-605ae8782791,contract manager,16,4,12,25.0
+http://data.europa.eu/esco/occupation/2cf2b905-3308-4b5d-8e8d-633fc7a3f3ce,sustainability manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/30c0943c-caa1-411d-b273-26f475971273,quality engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f,financial manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/3288a2fe-4934-47c8-ad0b-11b16c9cd461,utilities inspector,4,1,3,25.0
+http://data.europa.eu/esco/occupation/33fe4c90-c4fd-4860-bdc5-24fcab16f45a,food analyst,4,1,3,25.0
+http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e,cloud engineer,45,12,33,26.67
+http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf,purchasing manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/39e9fc8f-02bd-4577-b603-2dc96204ce74,community development officer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/3b129d8d-268e-465a-b0c5-bf32cae59a41,mobility services manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/3cee6bea-4a19-4511-9bbb-fdf820857555,criminal investigator,12,3,9,25.0
+http://data.europa.eu/esco/occupation/3f6fc9db-18c1-45e8-819e-baf7b6cfe372,court administrator,4,1,3,25.0
+http://data.europa.eu/esco/occupation/44508e7b-f56b-4bfb-9cd6-879838aecd94,land planner,4,1,3,25.0
+http://data.europa.eu/esco/occupation/44e0c015-309d-4f67-98a3-1e036966ed7f,budget manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/4910419f-b4af-4f59-b544-9dbebc8a74f0,electrician,12,3,9,25.0
+http://data.europa.eu/esco/occupation/4a29eab1-5f02-4723-a863-e2d5a0614dfa,healthcare institution manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/4b214899-ed00-4156-b269-a23df0fb1093,environmental protection manager,16,4,12,25.0
+http://data.europa.eu/esco/occupation/4ca8ba6c-dc55-40c0-ae6c-d55c94dd2e03,intelligence officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/4d750b7f-f40d-447c-ba90-f5fb0ee9ef27,social security officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/4e4a291d-1d38-4c5a-812a-5827d0691b11,budget analyst,8,2,6,25.0
+http://data.europa.eu/esco/occupation/4ea620f2-5c75-49ee-85a0-b2fb6bbf3624,road operations manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/4f49df98-98b8-4a9e-98ad-9c5557817eba,strategic planning manager,24,6,18,25.0
+http://data.europa.eu/esco/occupation/50e00fda-ac7c-4bc5-9f19-69a33ff3d6e7,fiscal affairs policy officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/51cd3a7a-eae6-4dc6-9f24-179d7ec6d230,logistics analyst,4,1,3,25.0
+http://data.europa.eu/esco/occupation/52207284-2681-40d3-a317-ec81ca1b3e41,landscape architect,20,5,15,25.0
+http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644,mechanical engineer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/57e87533-e523-4ee5-bf21-94a39fcc279b,health safety and environmental manager,36,9,27,25.0
+http://data.europa.eu/esco/occupation/59883630-45f9-40e7-9732-9e5ff9758d2b,environmental programme coordinator,32,8,24,25.0
+http://data.europa.eu/esco/occupation/5ac377d2-e1d0-4911-a299-b4ef2782a0ba,secretary,8,2,6,25.0
+http://data.europa.eu/esco/occupation/5ccb2c34-e860-43a5-9869-342487518115,project support officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/5d758e75-a116-485a-b800-5db08ffd3ba1,drug and alcohol addiction counsellor,4,1,3,25.0
+http://data.europa.eu/esco/occupation/60082a99-d8ef-4e84-9290-78902681b6ed,business analyst,32,8,24,25.0
+http://data.europa.eu/esco/occupation/61053604-8091-4a8e-9c63-5151051722e3,healthcare consultant,4,1,3,25.0
+http://data.europa.eu/esco/occupation/6140be85-2d45-44b2-b0ba-412aadcead1e,geneticist,12,3,9,25.0
+http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff,maintenance and repair engineer,24,6,18,25.0
+http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab,computer-aided design operator,4,1,3,25.0
+http://data.europa.eu/esco/occupation/6353b3e8-e8f2-4ecb-b230-186927139892,data entry clerk,4,1,3,25.0
+http://data.europa.eu/esco/occupation/64c7d461-152c-477f-a8e2-c2c537e9d617,ICT network technician,16,4,12,25.0
+http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2,policy manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/673f3266-ab1a-447d-9b28-fc5838dc07e3,occupational health and safety inspector,4,1,3,25.0
+http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db,bioinformatics scientist,12,3,9,25.0
+http://data.europa.eu/esco/occupation/69bcbb0a-8d80-4ecd-b0a4-9adea2a40de2,graphic designer,20,5,15,25.0
+http://data.europa.eu/esco/occupation/6c3fd65e-2d24-47d8-bc22-9e93512bdcc2,chief executive officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/6c999fc7-c6b7-4ef3-a4b9-af124a1783a2,office clerk,24,6,18,25.0
+http://data.europa.eu/esco/occupation/6cc19251-763b-4de1-b4f7-526c9ff732d2,public relations manager,28,7,21,25.0
+http://data.europa.eu/esco/occupation/6e6839b6-099c-4802-906e-7f2c8203ee69,office manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/6fc8f605-98b9-4218-b5e2-91c4c9c55c4d,design engineer,28,7,21,25.0
+http://data.europa.eu/esco/occupation/719f101d-1866-49d3-8d5c-2256f606a8b9,digital transformation manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba,client relations manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/72913ee1-1696-4d74-b26f-681d17887c58,emergency response coordinator,8,2,6,25.0
+http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba,electromechanical engineer,16,4,12,25.0
+http://data.europa.eu/esco/occupation/7819669b-30c2-42e6-a1c4-0bcd6f0379ff,international relations officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/781a6350-e686-45b9-b075-e4c8d5a05ff7,cloud software developer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/789517fb-95ee-43d1-9530-c2860be1a439,health and safety officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/80d880ec-3bae-45a2-a2d3-41345ee0b319,nature conservation officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/8213b4bc-60ce-4ffc-9e00-9758fb2003c6,monitoring and evaluation officer,16,4,12,25.0
+http://data.europa.eu/esco/occupation/8a53f8d3-d995-4c7b-a70d-d79f76bdcb3f,dietitian,8,2,6,25.0
+http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525,ICT project manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/8c3f536e-ba66-4321-ba40-363dc39f129b,architect,20,5,15,25.0
+http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc,database administrator,44,11,33,25.0
+http://data.europa.eu/esco/occupation/8cce40c1-4479-47e7-b5fc-c976631d919f,management assistant,4,1,3,25.0
+http://data.europa.eu/esco/occupation/8d3e8aaa-791b-4c75-a465-f3f827028f50,nurse responsible for general care,8,2,6,25.0
+http://data.europa.eu/esco/occupation/8d586ee9-0ab1-4155-a3b0-2ca786c8e48c,financial analyst,4,1,3,25.0
+http://data.europa.eu/esco/occupation/90569478-805c-4d14-a1ba-e9c9c4ac2818,victim support officer,20,5,15,25.0
+http://data.europa.eu/esco/occupation/90f75f67-495d-49fa-ab57-2f320e251d7e,cook,4,1,3,25.0
+http://data.europa.eu/esco/occupation/91f93dc4-1b71-4053-b6fb-c579ec19303a,procurement department manager,20,5,15,25.0
+http://data.europa.eu/esco/occupation/929ef41d-afd0-4d5a-b85b-69eab68fa368,legal assistant,29,8,21,27.59
+http://data.europa.eu/esco/occupation/93e4e70b-aae4-4fdc-8037-e48e7077564e,transport planner,4,1,3,25.0
+http://data.europa.eu/esco/occupation/949ab84f-5d76-4139-a568-45691b7ebc53,equality and inclusion manager,24,6,18,25.0
+http://data.europa.eu/esco/occupation/94e0bedd-e56e-42be-a5a4-b74a260f437c,department manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/9581c837-fee7-4068-9618-1116fd93d723,engineering assistant,4,1,3,25.0
+http://data.europa.eu/esco/occupation/974d4eab-fbee-4c52-b16e-73bdd8c25b53,lawyer,99,26,73,26.26
+http://data.europa.eu/esco/occupation/98e58946-3227-4f6c-a5d1-5892fe76883d,after-sales service technician,4,1,3,25.0
+http://data.europa.eu/esco/occupation/99492920-e5a5-4dba-9e5a-93193147198c,economist,12,3,9,25.0
+http://data.europa.eu/esco/occupation/9af8907f-56a7-4170-83b1-3c6ba0997cfa,geographic information systems specialist,32,8,24,25.0
+http://data.europa.eu/esco/occupation/9b889f07-c39c-464d-b9d9-b2daa650f9ac,specialised doctor,16,4,12,25.0
+http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a,contact centre supervisor,4,1,3,25.0
+http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300,ICT system administrator,12,3,9,25.0
+http://data.europa.eu/esco/occupation/a005f8a2-2d8a-433e-8d89-13575f822fd4,energy manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/a092cb70-f3e3-4224-98a3-b97c0114de77,environmental health inspector,12,3,9,25.0
+http://data.europa.eu/esco/occupation/a1273779-d2d4-4708-a406-62f7cdd26aab,health and safety engineer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/a14e96a7-6c4d-4d69-8c6f-7ccadf77bac5,corporate training manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7,ICT quality assurance manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/a2ff6cc3-15fa-4f02-a457-8fd5df7aa29e,intermodal logistics manager,16,4,12,25.0
+http://data.europa.eu/esco/occupation/a377fafb-7e6e-4925-bc64-8099b58aafb8,drainage engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/a48b9a5a-5ded-482d-8cda-7fd097a32c16,groundsman/groundswoman,4,1,3,25.0
+http://data.europa.eu/esco/occupation/a520fba4-2a29-43a0-bfd5-43892306501d,building information modelling consultant,4,1,3,25.0
+http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471,ICT system analyst,4,1,3,25.0
+http://data.europa.eu/esco/occupation/a79170ad-0b7b-4697-864f-1748359aa10a,ICT product manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/a7a74a05-3dd0-46c6-99af-92df8042520c,microbiologist,20,5,15,25.0
+http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135,ICT system developer,16,4,12,25.0
+http://data.europa.eu/esco/occupation/aad7819e-d62e-41de-a594-9f2be186a6c2,transport engineer,16,4,12,25.0
+http://data.europa.eu/esco/occupation/ac1fc6a9-70d2-475c-8fa0-82ef83830968,environmental engineer,36,9,27,25.0
+http://data.europa.eu/esco/occupation/ac60ed89-da6d-4f1a-93ee-1031789c7796,court reporter,8,2,6,25.0
+http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955,statistician,4,1,3,25.0
+http://data.europa.eu/esco/occupation/acf462a3-9c34-46cb-952a-c612c38299f4,prosecutor,24,6,18,25.0
+http://data.europa.eu/esco/occupation/ade351da-7bda-424e-8682-bbdcab2a25be,payroll clerk,8,2,6,25.0
+http://data.europa.eu/esco/occupation/af69484e-b43f-4685-b22d-f3418df45c4d,psychotherapist,16,4,12,25.0
+http://data.europa.eu/esco/occupation/b2cede50-82bb-4684-9f11-1930e12ad672,energy engineer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3,mechanical engineering technician,8,2,6,25.0
+http://data.europa.eu/esco/occupation/b42c5ed4-c6e4-4694-934f-96127719cc43,facilities manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/b5d2db88-9e2b-4efa-8f2f-0e62a494791e,environmental policy officer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/b865693a-eb11-44cc-bf6c-38e5b4d7e169,arboriculturist,8,2,6,25.0
+http://data.europa.eu/esco/occupation/b89ba3a8-f03a-46b8-ac54-c87d7204aad0,spokesperson,4,1,3,25.0
+http://data.europa.eu/esco/occupation/b8b98b65-7db2-43f8-8ac4-2f1903984e7b,civil enforcement officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/bafbc672-0ad9-41af-9de8-db0c91a24f9b,billing clerk,4,1,3,25.0
+http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827,automation engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94,service manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7,ICT application developer,20,5,15,25.0
+http://data.europa.eu/esco/occupation/bea99fea-0383-4c63-b944-70d4799de2c5,project manager,68,21,47,30.88
+http://data.europa.eu/esco/occupation/c02ee787-c30b-4f0d-9d7f-6eb36fc44a5d,research manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/c18fddf5-cfc4-4f9c-94d6-86608faaa1dd,social services manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/c36fc197-1f5b-4563-acd8-6f1d06aa1c03,marine engineer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/c3aae59e-1441-4b3e-bdd1-6da50dc7cf42,bookkeeper,4,1,3,25.0
+http://data.europa.eu/esco/occupation/c64a6e4e-5b38-4f93-b26d-aded817aeaf3,chief operating officer,20,5,15,25.0
+http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268,operations manager,40,10,30,25.0
+http://data.europa.eu/esco/occupation/c6c48286-2037-47e3-a132-b745dce858e2,coroner,4,1,3,25.0
+http://data.europa.eu/esco/occupation/c872187a-079b-413b-8503-7b5dd92abb88,food regulatory advisor,4,1,3,25.0
+http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7,programme manager,32,8,24,25.0
+http://data.europa.eu/esco/occupation/caafca69-9faa-4850-8930-a3fa07fea4e6,accounting analyst,8,2,6,25.0
+http://data.europa.eu/esco/occupation/caf7b8fb-b2d6-46b7-bffa-bea7f8e4aed8,policy officer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/cbdb80db-c760-4b68-b074-88c397650ef5,editor-in-chief,4,1,3,25.0
+http://data.europa.eu/esco/occupation/cc867bee-ab5c-427f-9244-f7a204d9574b,cloud DevOps engineer,20,5,15,25.0
+http://data.europa.eu/esco/occupation/cd4f41a5-87a6-4b3c-8ee3-14e6f457c365,audit supervisor,16,4,12,25.0
+http://data.europa.eu/esco/occupation/cd7b838c-51f6-41ec-9067-bb974c0f991b,communication manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/ce53a1b2-2fec-4d04-9390-47fb3dd525f0,community social worker,12,3,9,25.0
+http://data.europa.eu/esco/occupation/ce6230b8-154f-4e0b-ac03-dca3a269a19c,cultural centre director,4,1,3,25.0
+http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d,ICT network engineer,32,8,24,25.0
+http://data.europa.eu/esco/occupation/d00b4607-c4fe-4f3e-8974-29401e23223c,social security administrator,4,1,3,25.0
+http://data.europa.eu/esco/occupation/d2db926b-8b14-4686-9c98-fb0dc3a38cbb,creative director,8,2,6,25.0
+http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2,data analyst,67,20,47,29.85
+http://data.europa.eu/esco/occupation/d4d6842b-27f0-4222-85db-c542acf6d434,public health policy officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/d6bffef4-f09a-4711-9ecb-92ec04353b21,substance misuse worker,12,3,9,25.0
+http://data.europa.eu/esco/occupation/d7a9f9e0-e2f5-4804-a0e0-b21ebb1403ee,inventory coordinator,12,3,9,25.0
+http://data.europa.eu/esco/occupation/d7d986e1-7333-431b-9719-0c5c6939e360,civil engineer,92,23,69,25.0
+http://data.europa.eu/esco/occupation/d8e502b4-1be6-4d10-a224-151688f8f0c8,land surveyor,20,5,15,25.0
+http://data.europa.eu/esco/occupation/e14548c8-c2b9-4ef8-8670-d5967d7ad804,urban planner,44,11,33,25.0
+http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae,ICT system architect,68,17,51,25.0
+http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205,chief data officer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/e6800524-eec2-4c33-af0e-6f36d1d679bc,instrumentation engineer,12,3,9,25.0
+http://data.europa.eu/esco/occupation/e8461d2e-3d75-477c-93a2-ea8d342bb55b,environmental technician,4,1,3,25.0
+http://data.europa.eu/esco/occupation/e9507d34-c70f-474f-a4a3-d2cbfe50f6e9,security manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/ed3cf43d-c2c1-4c46-82fc-1375e27e0290,plumber,8,2,6,25.0
+http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897,accountant,8,2,6,25.0
+http://data.europa.eu/esco/occupation/f0ca39a8-1e30-487c-95f9-ef2d5e734adc,ICT operations manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1,software developer,56,14,42,25.0
+http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d,software manager,4,1,3,25.0
+http://data.europa.eu/esco/occupation/f3b99acc-b212-45cf-bb4f-7b83cc6f0d71,bacteriology technician,4,1,3,25.0
+http://data.europa.eu/esco/occupation/f4de7e28-ca67-46cd-b760-30e02b3aa83b,medical laboratory manager,12,3,9,25.0
+http://data.europa.eu/esco/occupation/f56e33a3-01bb-46ba-98f4-d47aa242b983,road transport division manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/f605bcd2-90b6-45a0-a558-d05016d68a77,human resources manager,20,5,15,25.0
+http://data.europa.eu/esco/occupation/f7b04542-d8c7-42db-8475-e63b507cce82,receptionist,4,1,3,25.0
+http://data.europa.eu/esco/occupation/fa6bd9e9-9631-4abe-b2f8-fad7bf8a819d,child day care centre manager,8,2,6,25.0
+http://data.europa.eu/esco/occupation/faed05c0-c1d1-4e34-b575-0dea96459e56,construction manager,20,5,15,25.0
+http://data.europa.eu/esco/occupation/fcf9024e-277c-43c7-8ec8-8903e5c9c576,water engineer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7,application engineer,8,2,6,25.0
+http://data.europa.eu/esco/occupation/fdfce14e-992d-4ff4-9f9d-7a353c75654e,corporate lawyer,4,1,3,25.0
+http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0,ICT business analyst,16,4,12,25.0

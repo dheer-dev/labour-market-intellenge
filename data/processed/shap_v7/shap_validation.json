@@ -1,0 +1,12 @@
+{
+  "model_file": "data/processed/market_observation_model_grouped.joblib",
+  "dataset_file": "data/processed/model_dataset_occupation_aware.csv",
+  "samples_explained": 100,
+  "background_samples": 150,
+  "feature_count": 3588,
+  "max_additivity_error": 8.881784197001252e-16,
+  "explanation_units": "log-odds of market_observed=1",
+  "interpretation": "Explains predictions by saved model, not causal skill gaps; sampled dataset explanations are not out-of-fold metrics.",
+  "no_training_performed": true,
+  "input_files_unchanged": true
+}

@@ -1,0 +1,2 @@
+random_state,negative_ratio,full_esco_pairs,full_observed_pairs,full_non_observed_pairs,dataset_rows,dataset_observed_pairs,dataset_non_observed_pairs,observed_percent,occupations_in_dataset,duplicate_pairs,sampling_method
+42,3,126051,674,125377,2656,674,1982,25.38,190,0,All observed pairs; up to 3 non-observed pairs per observed pair within each eligible occupation

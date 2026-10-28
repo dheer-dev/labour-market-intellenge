@@ -1,0 +1,13 @@
+Figure 1. Architecture of the proposed explainable labour-market intelligence framework. The ML component estimates whether an occupation–skill pair is observed in the available job-posting data.
+
+Figure 2. Five most frequently observed skills for each target occupation, measured by relevant job-posting counts in the processed NYC dataset.
+
+Figure 3. Distribution of skill-gap priority categories produced by the selected prevalence-based prioritisation rule.
+
+Figure 4. Number of distinct prioritised skill-gap records for each target occupation.
+
+Figure 5. Precision, recall and F1-score for the baseline at threshold 0.50, baseline with nested threshold selection, and class-weighted model with nested threshold selection.
+
+Figure 6. Confusion matrices from pooled outer-fold predictions. Nested-threshold panels use thresholds selected within the corresponding outer fold's inner training procedure.
+
+Figure 7. Precision–recall curves computed from pooled outer-fold probabilities for baseline and class-weighted Logistic Regression.
