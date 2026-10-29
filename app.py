@@ -925,81 +925,171 @@ elif page == "ML-Assisted Decision Support":
 
 elif page == "Personalised Skill Gaps":
     st.header("Personalised Skill Gap Analysis")
+    personal_mode = st.radio(
+        "Choose analysis mode",
+        ["Enter My Skills", "Existing Profile"],
+        horizontal=True, key="personal_analysis_mode",
+    )
+    if personal_mode == "Existing Profile":
+        st.header("Personalised Skill Gap Analysis")
 
-    personal = require_data("personal")
+        personal = require_data("personal")
 
-    if personal is not None:
-        users = sorted(personal["user_id"].dropna().unique())
+        if personal is not None:
+            users = sorted(personal["user_id"].dropna().unique())
 
-        selected_user = st.selectbox(
-            "Select a user profile",
-            users,
-        )
-
-        user_data = personal[
-            personal["user_id"] == selected_user
-        ].copy()
-
-        occupations = sorted(
-            user_data["occupation_label"].dropna().unique()
-        )
-
-        if occupations:
-            selected_occupation = st.selectbox(
-                "Select target occupation",
-                occupations,
+            selected_user = st.selectbox(
+                "Select a user profile",
+                users,
             )
 
-            user_data = user_data[
-                user_data["occupation_label"] == selected_occupation
-            ]
+            user_data = personal[
+                personal["user_id"] == selected_user
+            ].copy()
 
-        gaps_only = st.checkbox(
-            "Show only identified personal gaps",
-            value=True,
-        )
+            occupations = sorted(
+                user_data["occupation_label"].dropna().unique()
+            )
 
-        if gaps_only:
-            user_data = user_data[user_data["personal_gap"] == True]
+            if occupations:
+                selected_occupation = st.selectbox(
+                    "Select target occupation",
+                    occupations,
+                )
 
-        col1, col2, col3 = st.columns(3)
-
-        col1.metric("Displayed skills", len(user_data))
-        col2.metric(
-            "Identified gaps",
-            int((user_data["personal_gap"] == True).sum()),
-        )
-        col3.metric(
-            "Market-observed gaps",
-            int(
-                (
-                    (user_data["personal_gap"] == True)
-                    & user_data["skill_posting_count"].notna()
-                ).sum()
-            ),
-        )
-
-        st.dataframe(
-            user_data[
-                [
-                    "occupation_label",
-                    "skill_label",
-                    "user_skill_status",
-                    "personal_gap",
-                    "evidence_basis",
-                    "skill_posting_count",
-                    "skill_prevalence_percent",
-                    "demand_category",
+                user_data = user_data[
+                    user_data["occupation_label"] == selected_occupation
                 ]
-            ],
-            hide_index=True,
-            width="stretch",
-        )
+
+            gaps_only = st.checkbox(
+                "Show only identified personal gaps",
+                value=True,
+            )
+
+            if gaps_only:
+                user_data = user_data[user_data["personal_gap"] == True]
+
+            col1, col2, col3 = st.columns(3)
+
+            col1.metric("Displayed skills", len(user_data))
+            col2.metric(
+                "Identified gaps",
+                int((user_data["personal_gap"] == True).sum()),
+            )
+            col3.metric(
+                "Market-observed gaps",
+                int(
+                    (
+                        (user_data["personal_gap"] == True)
+                        & user_data["skill_posting_count"].notna()
+                    ).sum()
+                ),
+            )
+
+            st.dataframe(
+                user_data[
+                    [
+                        "occupation_label",
+                        "skill_label",
+                        "user_skill_status",
+                        "personal_gap",
+                        "evidence_basis",
+                        "skill_posting_count",
+                        "skill_prevalence_percent",
+                        "demand_category",
+                    ]
+                ],
+                hide_index=True,
+                width="stretch",
+            )
+
+            st.caption(
+                "The displayed profile is the existing user profile in the dataset; "
+                "this page does not yet collect or save new user-entered skills."
+            )
+
+    else:
+        from src.personalized_skill_gap_v10 import analyze_personal_skills
 
         st.caption(
-            "The displayed profile is the existing user profile in the dataset; "
-            "this page does not yet collect or save new user-entered skills."
+            "Select ESCO skills you already possess. Skills left unselected are **not reported**, "
+            "not confirmed deficiencies. This analysis uses the available historical NYC snapshot."
         )
+        relations = require_data("esco_relations")
+        demand = data.get("demand")
+        career = data.get("career")
+        needed = {"occupation_uri", "occupation_label", "skill_uri", "skill_label"}
+        if relations is not None:
+            if not needed.issubset(relations.columns):
+                st.error("ESCO relations missing: " + ", ".join(sorted(needed - set(relations.columns))))
+            else:
+                occupations_df = relations[["occupation_uri", "occupation_label"]].dropna().drop_duplicates("occupation_uri")
+                occupations_df = occupations_df.sort_values("occupation_label", key=lambda x: x.str.casefold())
+                occ_labels = {r.occupation_uri: f"{r.occupation_label} ({r.occupation_uri.rsplit('/', 1)[-1]})" for r in occupations_df.itertuples()}
+                selected_occ_uri = st.selectbox(
+                    "Target occupation", list(occ_labels),
+                    format_func=lambda uri: occ_labels[uri], key="custom_gap_occupation",
+                )
+                occ_rows = relations.loc[relations["occupation_uri"].eq(selected_occ_uri)].drop_duplicates("skill_uri")
+                skill_catalog = relations[["skill_uri", "skill_label"]].dropna().drop_duplicates("skill_uri")
+                skill_labels = {r.skill_uri: f"{r.skill_label} ({r.skill_uri.rsplit('/', 1)[-1]})" for r in skill_catalog.itertuples()}
+                occ_skill_uris = [u for u in occ_rows["skill_uri"] if u in skill_labels]
+                st.caption(f"{len(occ_skill_uris)} ESCO-linked skills are available for this occupation.")
+                st.multiselect(
+                    "Skills you already have (linked to this occupation)",
+                    options=occ_skill_uris, format_func=lambda u: skill_labels[u],
+                    key="custom_gap_skills",
+                )
+                with st.expander("Add skills from other ESCO occupations (optional)"):
+                    other_uris = [u for u in skill_labels if u not in set(occ_skill_uris)]
+                    st.multiselect("Other skills you have", options=other_uris,
+                                   format_func=lambda u: skill_labels[u], key="custom_gap_other_skills")
+                if st.button("Analyze My Skill Gaps", key="custom_gap_submit", type="primary"):
+                    selected = set(st.session_state.get("custom_gap_skills", [])) | set(st.session_state.get("custom_gap_other_skills", []))
+                    st.session_state["custom_gap_result"] = analyze_personal_skills(
+                        selected_occ_uri, selected, relations, demand, career,
+                    )
+                    st.session_state["custom_gap_result_occupation"] = selected_occ_uri
+                results = st.session_state.get("custom_gap_result")
+                if results is not None and st.session_state.get("custom_gap_result_occupation") == selected_occ_uri:
+                    if results.empty:
+                        st.warning("No ESCO occupation–skill relationships were found.")
+                    else:
+                        gap_only = st.checkbox("Show only potential gaps", value=True, key="custom_gap_only")
+                        visible = results.loc[results["potential_gap"]] if gap_only else results
+                        a, b, c = st.columns(3)
+                        a.metric("ESCO-linked skills", len(results))
+                        b.metric("Self-reported for this occupation", int(results["user_reported"].sum()))
+                        c.metric("Not reported (potential gaps)", int(results["potential_gap"].sum()))
+                        columns = [v for v in ["skill_label", "status", "relation_type", "priority", "skill_posting_count", "skill_prevalence_percent", "nyc_record_found", "evidence_basis"] if v in visible]
+                        st.dataframe(visible[columns], hide_index=True, width="stretch")
+                        st.download_button("Download personalized results (CSV)",
+                            data=results.to_csv(index=False).encode("utf-8"),
+                            file_name="personalized_skill_gap_results.csv", mime="text/csv")
+                        st.info("Not reporting a skill does not prove the user lacks it. Missing NYC records indicate insufficient observation evidence, not zero demand. Existing rule-based priorities appear only where an exact existing record can be associated.")
+                        # Saved model prediction is optional and limited to pairs represented in the model dataset.
+                        with st.expander("Optional saved-model evidence for a selected skill"):
+                            eligible = data.get("model_dataset")
+                            model_path = DATA_DIR / "market_observation_model_grouped.joblib"
+                            required_model = {"occupation_uri", "skill_uri", "occupation_label", "skill_label", "skill_type", "relation_type"}
+                            if eligible is None or not required_model.issubset(eligible.columns) or not model_path.exists():
+                                st.caption("Saved-model scoring unavailable: required model file or input data is missing.")
+                            else:
+                                supported = eligible.loc[eligible["occupation_uri"].eq(selected_occ_uri) & eligible["skill_uri"].isin(results["skill_uri"])].drop_duplicates("skill_uri")
+                                if supported.empty:
+                                    st.caption("No exact occupation–skill URI pairs are supported by the saved model dataset. No score is inferred.")
+                                else:
+                                    skill_uri = st.selectbox("Model-supported skill", supported["skill_uri"].tolist(),
+                                        format_func=lambda u: skill_labels.get(u, u), key="custom_gap_ml_skill")
+                                    mr = supported.loc[supported["skill_uri"].eq(skill_uri)].iloc[0]
+                                    model_text = f"{mr['occupation_label']} {mr['skill_label']} {mr['skill_type']} {mr['relation_type']}"
+                                    try:
+                                        model = joblib.load(model_path)
+                                        prob = float(model.predict_proba([model_text])[0][list(model.classes_).index(1)])
+                                        st.metric("Model-estimated NYC observation score", f"{prob:.1%}")
+                                        st.caption("This is saved-model inference, not a prediction of a user's proficiency or a guaranteed market-demand probability. The existing SHAP page explains its saved sample predictions, not this newly scored input.")
+                                    except Exception as exc:
+                                        st.warning(f"Model score unavailable: {exc}")
 
 
 # ---------------------------------------------------------

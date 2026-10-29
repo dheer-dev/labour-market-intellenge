@@ -34,6 +34,7 @@ app.py.review3-backup
 app.py.before_ml_page_fix
 app_before_shap_v8.py
 app_before_shap_v9.py
+app_before_custom_skill_v10.py
 
 # Temporary files
 *.tmp
